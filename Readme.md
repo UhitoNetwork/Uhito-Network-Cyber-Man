@@ -45,10 +45,8 @@ A Cyber-Man is:
 ## 📖 RECOMMENDED READING ORDER
 
 ### Step 1️⃣: Understand Cyber-Man
-Start with `SELF-CYBER-MAN/` to understand our approach:
-- [Who is a Cyber-Man?](SELF-CYBER-MAN/who-is-cyberman.md)
-- [What do Cyber-Men do?](SELF-CYBER-MAN/what-cyberman-does.md)
-- [Tools every Cyber-Man needs](SELF-CYBER-MAN/cyberman-tools.md)
+Start with `SELF-CYBER-MAN/` to understand our approach untill you complet all
+
 
 ### Step 2️⃣: See Real Threats  
 Read `STORY-CASES/` to understand what happens in real life:
