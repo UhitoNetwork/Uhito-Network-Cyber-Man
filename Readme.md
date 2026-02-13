@@ -49,3 +49,13 @@ All content is free. Share it widely.
 
 **Contact:** uhitonetwork@gmail.com  
 **Copyright © 2026 Uhito Network. All rights reserved.**
+
+
+---
+## 🔁 Uhito Network Lifecycle
+
+This repository is **Step 3: Awareness** – warning communities in simple words.
+
+🔍 [Research](https://github.com/UhitoNetwork/Uhito-Network-Research) → 📖 [Study](https://github.com/UhitoNetwork/Uhito-Network-Study) → ⚠️ **[Awareness](https://github.com/UhitoNetwork/Uhito-Network-Cyber-Man-Awareness)** → 🤝 [Volunteer](https://github.com/UhitoNetwork/Uhito-Network-Cyber-Man-Volunteer)
+
+Learn how awareness materials are created and used by volunteers.
