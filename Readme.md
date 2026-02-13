@@ -22,8 +22,6 @@ Every file here is written in plain, simple language. No jargon. No technical de
 | `warnings/` | Short, urgent alerts about specific hijack risks |
 | `stories/` | Real‑life scenarios people relate to |
 | `guides/` | Step‑by‑step instructions for protection |
-| `campaigns/` | Ready‑to‑use materials for volunteers |
-| `resources/` | Trusted links and printable flyers |
 | `program/` | About Uhito Network's awareness initiative |
 | `cyberman/` | The symbol of a community protector – what they are, how to become one |
 | `contact.md` | How to reach us |
