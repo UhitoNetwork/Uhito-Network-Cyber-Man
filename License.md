@@ -1,46 +1,35 @@
-# UHITO NETWORK CYBER-MAN LICENSE
-## Cybersecurity Awareness Content
+# UHITO NETWORK AWARENESS REPOSITORY LICENSE
+## Community Protection Materials
 
 ### COPYRIGHT NOTICE
 © 2026 Uhito Network. All rights reserved.
 
 ### OVERVIEW
-This repository contains original cybersecurity awareness content developed through community research and real-case analysis. This content remains the intellectual property of Uhito Network.
+This repository contains awareness materials, stories, guides, and warnings created to help ordinary people protect themselves online. The content is shared freely for personal and community use, but remains the intellectual property of Uhito Network.
 
 ### PERMITTED USES
 You may:
-1. **Read and Learn** – For personal and community education
-2. **Share Locally** – Distribute to your community in original form
-3. **Discuss** – Comment via GitHub Issues
-4. **Reference** – Mention this awareness program exists
-5. **Use for Non-Profit** – Community workshops, school programs
+1. **Read and Share** – Share the links with anyone who needs help
+2. **Print for Personal Use** – Print checklists or guides for yourself or family
+3. **Use in Community Workshops** – Run free, non‑commercial awareness sessions using these materials
+4. **Translate** – Translate content into other languages (with attribution)
 
 ### STRICTLY PROHIBITED
 You may NOT:
-1. **Repackage or Sell** – Create paid courses from this content
-2. **Modify Safety Warnings** – Change or remove risk disclosures
-3. **Claim Creation** – Present as your own work
-4. **Commercial Integration** – Use in for-profit training
-5. **AI Training** – Feed to machine learning models
-6. **Redistribute Modified** – Share altered versions publicly
+1. **Sell This Content** – Do not charge money for access to these materials
+2. **Remove Attribution** – Do not claim you wrote this
+3. **Modify and Republish** – Do not alter and post elsewhere as your own
+4. **Use for Commercial Training** – Companies must ask permission before using in paid courses
 
-### ATTRIBUTION REQUIREMENTS
-When sharing:
-- **Source**: Uhito Network Cyber-Man Awareness
-- **License**: Uhito Network Cyber-Man License
-- **Warning**: "Contains original safety content - do not modify warnings"
+### ATTRIBUTION
+If you share or translate, include:
+- Source: Uhito Network Awareness Repository
+- Link: [add your repo link]
+- Contact: uhitonetwork@gmail.com
 
 ### ENFORCEMENT
-Violations may result in:
-- Content removal requests
-- Legal notices for commercial misuse
-- Platform reporting
-
-### CONTACT
-For permissions beyond this license:
-**uhitonetwork@gmail.com**
+Violations may result in DMCA takedowns and legal action.
 
 ---
 
-*This license protects community safety messaging integrity.*
 *Copyright © 2026 Uhito Network. All rights reserved.*
